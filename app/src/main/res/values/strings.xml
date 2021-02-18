@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo application</string>
+    <string name="tab_text_1">Users</string>
+    <string name="tab_text_2">Enroll</string>
+</resources>

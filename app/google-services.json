@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529819810485",
+    "project_id": "introtuce-interntask",
+    "storage_bucket": "introtuce-interntask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529819810485:android:50b321b7beab7508771cfc",
+        "android_client_info": {
+          "package_name": "com.example.demoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529819810485-nbfoi3s2anb9gq342n2a582gfd5vc7ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitYpirniq36yJuS1iVcIlA1R9mextnMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529819810485-nbfoi3s2anb9gq342n2a582gfd5vc7ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
